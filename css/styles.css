@@ -6,3 +6,12 @@
 h1{
     color: aquamarine;
 }
+
+p{
+    margin: 0 20%;
+    align-items: center;
+}
+
+div{
+    margin-top: 5%;
+}
